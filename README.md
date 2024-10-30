@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tiffany Gan😎</h1>
-- 👨‍💻 All of my projects are available at [https://github.com/TiffanyGan321/TiffanyGan]
+👨‍💻 I'm a master student focused on data analytics at CMU
 
-- 📫 How to reach me **tiffanygan321@gmail.com**
+📝 All of my projects are available at [https://github.com/TiffanyGan321/TiffanyGan]
+
+📫 How to reach me **tiffanygan321@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
