@@ -1,8 +1,5 @@
-
-😎Welcome! I'm Tiffany Gan, a master student focused on data analytics at CMU
-<h1 align="center">Hi 👋, I'm Tiffany Gan</h1>
-- 👨‍💻 All of my projects are available at [https://github.com/TiffanyGan321/TiffanyGan](https://github.com/TiffanyGan321/TiffanyGan)
-
+<h1 align="center">Hi 👋, I'm Tiffany Gan</h1>😎
+- 👨‍💻 All of my projects are available at [https://github.com/TiffanyGan321/TiffanyGan]
 - 📫 How to reach me **tiffanygan321@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
