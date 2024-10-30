@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tiffany Gan😎</h1>
 👨‍💻 I'm a master student focused on data analytics at CMU
 
-📝 All of my projects are available at [https://github.com/TiffanyGan321/TiffanyGan]
+
+📝 All of my projects are available at https://github.com/TiffanyGan321/TiffanyGan
 
 📫 How to reach me **tiffanygan321@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tianyi-gan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tianyi-gan/" height="30" width="40" /></a>
