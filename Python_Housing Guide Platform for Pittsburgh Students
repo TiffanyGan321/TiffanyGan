@@ -1,9 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-TEAM NAME: CGENWAY
-TEAM MEMBER: TIFFANY GAN(tgan), YUMENG SHA(yumengsh), CHOLE HUANG(yihanhua), OUYU HAN(ouyuh)
-"""
 #%%
 print('USER INSTRUCTIONS:')
 print('Our current version supports region searches for North Oakland, Shadyside, and Squirrel Hill.')
